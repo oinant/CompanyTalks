@@ -2,8 +2,23 @@
 
 ## Software Craftsmanship
 
-### Origines et Principes
+### Elevons le niveau
+
+
 
 *** 
 
-### slide 2
+## Software Craftsmanship
+
+### Agenda
+
+<section>
+    <p class="fragment"> Origines </p>
+    <p class="fragment"> Principes </p>
+    <p class="fragment"> Egoless Programming </p>    
+</section>
+
+
+***
+
+### Origines
