@@ -10,7 +10,7 @@
 
 ## Software Craftsmanship
 
-### Agenda
+### Agenda 
 
 <section>
     <p class="fragment"> Origines </p>
