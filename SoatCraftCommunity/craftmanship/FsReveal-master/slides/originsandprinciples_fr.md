@@ -97,6 +97,52 @@ Les maitres mots de la communauté de l'artisanat logiciel :
         <li class="fragment"> Agilité </li>        
         <li class="fragment"> Qualité </li>
         <li class="fragment"> Pragmatisme </li>
-        <li class="fragment"> Amélioration continue </li>    
+        <li class="fragment"> Amélioration continue </li>
+        <li class="fragment"> Echange </li>    
     </ul>    
 </section>
+
+
+*** 
+
+## Egoless Programming
+
+De part leur volonté d'apprentissage continu, les Craftsman ont tendance à développé des compétences techniques fortes, qui leurs permettent souvent d'être reconnu comme experts dans différents domaines: Architecture, tests automatisés, coaching, entre autres.  
+
+---
+
+Cependant l'artisant logiciel ne doit pas être guidé par une quête de gloire. Ce chemin impose une certaine humilité. 
+
+Dans son livre, the Psychology of Programming, __sorti en 1971 !__, Jerry Weinberg nous donne les pistes pour nous permettre da devenir de meilleurs professionnels en enonçant des principes de communication :
+
+Ces pistes sont compilé en 2006 par Jeff Atwood :
+### les 10 pilliers de l'Egoless Programming
+
+---   
+
+### les 10 pilliers de l'Egoless Programming
+
+1. Comprendre et accepter qu'on fera des erreurs.
+2. Nous ne sommes pas notre code.
+3. Peu importe notre niveau, il y aura toujours de meilleurs que nous.
+4. Nous ne réecriovns pas le code des autres sans leur avis.
+
+---
+
+### les 10 pilliers de l'Egoless Programming
+
+5. Traitons ceux qui ont moins de connaissance avec respect, humilité et patience.
+6. La seule chose immuable dans l'univers est le changement.
+7. La seule expertise vient du savoir, pas du titre du poste.  
+8. Battons pour nos convictions, mais acceptons gracieusement la defaite. 
+
+--- 
+
+### les 10 pilliers de l'Egoless Programming
+
+9. Ne soyons pas "le gars au sous-sol".
+10. Soyons dur avec le code, mais doux avec le developeur.
+
+***
+
+## Questions ?
